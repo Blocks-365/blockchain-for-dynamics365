@@ -9,11 +9,11 @@ NFT's are tokenized versions of real-world assets. They are similar to stablecoi
 **Step 1:** Before you start installing the solution [request an API Key](https://www.blocks365.com/blockchain-for-dynamics365)
 
 **Step 2:** Download the latest version of the Blockchain for Dynamics 365 solution:
-- [Blockchain for Dynamics 365 v1.0.0.0](https://github.com/Blocks-365/blocks-365.github.io/raw/master/solutions/Blockchain_for_Dynamics365_1_0_0_0.zip)
+- [Blockchain for Dynamics 365 v1.0.0.0](https://github.com/Blocks-365/blockchain-for-dynamics365/raw/master/releases/Blockchain_for_Dynamics365_1_0_0_0.zip)
 
 **Step 3:** From within Dynamics 365, navigate to Settings → Solutions → Import and select he downloaded solution file. Follow the instruction.
 
-<kbd>![](https://github.com/Blocks-365/blocks-365.github.io/blob/master/images/blockchain-for-dynamics365/import-crm-solution.png)</kbd>
+<kbd>![](https://github.com/Blocks-365/blockchain-for-dynamics365/blob/master/images/import-crm-solution.png)</kbd>
 
 ### PART II: Setting up your Wallet in Dynamics 365
 
@@ -21,18 +21,18 @@ In step 1 you should have received a API Key. With this key you can now configur
 
 First navigate to Advanced Find. Than look for 'Blocks365 Wallet' en click on Execute.
 
-<kbd>![select-blocks365-wallet](https://github.com/Blocks-365/blocks-365.github.io/blob/master/images/blockchain-for-dynamics365/select-blocks365-wallet.png)</kbd>
+<kbd>![select-blocks365-wallet](https://github.com/Blocks-365/blockchain-for-dynamics365/blob/master/images/select-blocks365-wallet.png)</kbd>
 
 Now click on 'New Blocks365 Wallet'
 
-<kbd>![new-blocks365-wallet](https://github.com/Blocks-365/blocks-365.github.io/blob/master/images/blockchain-for-dynamics365/new-blocks365-wallet.png)</kbd>
+<kbd>![new-blocks365-wallet](https://github.com/Blocks-365/blockchain-for-dynamics365/blob/master/images/new-blocks365-wallet.png)</kbd>
 
 Fill in the following information and Save the record:
 - Name of your Wallet
 - The Wallet Key  which you received by Email in step 1
 - The name, description and image of your NFT token collection. The token collection image has a default image value which you can override.
 
-<kbd>![new-wallet](https://github.com/Blocks-365/blocks-365.github.io/blob/master/images/blockchain-for-dynamics365/new-wallet.png)</kbd>
+<kbd>![new-wallet](https://github.com/Blocks-365/blockchain-for-dynamics365/blob/master/images/new-wallet.png)</kbd>
 
 When you click on Save your Wallet Key is validated. In case of successful validation your Ethereum Account Address and (smart)contract Address will appear.
 
