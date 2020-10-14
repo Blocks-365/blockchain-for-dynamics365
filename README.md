@@ -13,7 +13,7 @@ NFT's are tokenized versions of real-world assets. They are similar to stablecoi
 
 **Step 3:** From within Dynamics 365, navigate to Settings → Solutions → Import and select he downloaded solution file. Follow the instruction.
 
-<kbd>![](https://github.com/Blocks-365/blockchain-for-dynamics365/blob/master/images/import-crm-solution.png)</kbd>
+<kbd>![](/images/import-crm-solution.png)</kbd>
 
 ### PART II: Setting up your Wallet in Dynamics 365
 
