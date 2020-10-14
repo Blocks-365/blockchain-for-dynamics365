@@ -21,18 +21,18 @@ In step 1 you should have received a API Key. With this key you can now configur
 
 First navigate to Advanced Find. Look for 'Blocks365 Wallet' en click on Execute.
 
-<kbd>![select-blocks365-wallet](https://github.com/Blocks-365/blockchain-for-dynamics365/blob/master/images/select-blocks365-wallet.png)</kbd>
+<kbd>![select-blocks365-wallet](/images/select-blocks365-wallet.png)</kbd>
 
 Now click on 'New Blocks365 Wallet'
 
-<kbd>![new-blocks365-wallet](https://github.com/Blocks-365/blockchain-for-dynamics365/blob/master/images/new-blocks365-wallet.png)</kbd>
+<kbd>![new-blocks365-wallet](/images/new-blocks365-wallet.png)</kbd>
 
 Fill in the following information and Save the record:
 - Name of your Wallet
 - The Wallet Key  which you received by Email in step 1
 - The name, description and image of your NFT token collection. The token collection image has a default image value which you can override.
 
-<kbd>![new-wallet](https://github.com/Blocks-365/blockchain-for-dynamics365/blob/master/images/new-wallet.png)</kbd>
+<kbd>![new-wallet](/images/new-wallet.png)</kbd>
 
 When you click on Save your Wallet Key is validated. In case of successful validation your Ethereum Account Address and (smart)contract Address will appear.
 
