@@ -25,7 +25,7 @@ First navigate to Advanced Find. Look for 'Blocks365 Wallet' en click on Execute
 
 Now click on 'New Blocks365 Wallet'
 
-<kbd>![new-blocks365-wallet](https://github.com/Blocks-365/blockchain-for-dynamics365/blob/master/images/new-blocks365-wallet2.png)</kbd>
+<kbd>![new-blocks365-wallet](https://github.com/Blocks-365/blockchain-for-dynamics365/blob/master/images/new-blocks365-wallet.png)</kbd>
 
 Fill in the following information and Save the record:
 - Name of your Wallet
