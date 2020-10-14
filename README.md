@@ -19,13 +19,13 @@ NFT's are tokenized versions of real-world assets. They are similar to stablecoi
 
 In step 1 you should have received a API Key. With this key you can now configure your environment and start minting those tokens!
 
-First navigate to Advanced Find. Than look for 'Blocks365 Wallet' en click on Execute.
+First navigate to Advanced Find. Look for 'Blocks365 Wallet' en click on Execute.
 
 <kbd>![select-blocks365-wallet](https://github.com/Blocks-365/blockchain-for-dynamics365/blob/master/images/select-blocks365-wallet.png)</kbd>
 
 Now click on 'New Blocks365 Wallet'
 
-<kbd>![new-blocks365-wallet](https://github.com/Blocks-365/blockchain-for-dynamics365/blob/master/images/new-blocks365-wallet.png)</kbd>
+<kbd>![new-blocks365-wallet](https://github.com/Blocks-365/blockchain-for-dynamics365/blob/master/images/new-blocks365-wallet2.png)</kbd>
 
 Fill in the following information and Save the record:
 - Name of your Wallet
