@@ -38,7 +38,7 @@ When you click on Save your Wallet Key is validated. In case of successful valid
 
 You are now ready to mint the tokens! 
 
-[For instructions on how to mint the NFT tokens click here](https://www.blocks365.com/blockchain-for-dynamics365).
+[For instructions on how to mint the tokens click here](https://www.blocks365.com/blockchain-for-dynamics365).
 
 
 
