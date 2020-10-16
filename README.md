@@ -2,7 +2,7 @@
 
 With Blockchain for Dynamics 365 you can easily create [ERC1155](https://eips.ethereum.org/EIPS/eip-1155) non-fungible tokens (NFT's) on Ethereum Blockchain directly from your CDS or Dynamics 365 environment and start trading them.
 
-NFT's are tokenized versions of real-world assets. They are similar to stablecoins but are used to represent non-fungible assets like customer assets, shipments, artworks, real estate or collectibles. Blockchain for Dynamics 365 allows you to easily convert a CDS or Dynamics 365 record into a digital asset on the Blockchain which you can hold in your Ethereum wallet, transfer to others or trade on a Marketplace like [OpenSea](https://www.poensea.io).
+NFT's are tokenized versions of real-world assets. They are similar to stablecoins but are used to represent non-fungible assets like vehicles, shipments, artworks, warranties, real estate or collectibles. Blockchain for Dynamics 365 allows you to easily convert a CDS or Dynamics 365 record into a digital asset on the Blockchain which you can hold in your Ethereum wallet, transfer to others or trade on a Marketplace like [OpenSea](https://www.poensea.io).
 
 ### PART I: Installation
 
