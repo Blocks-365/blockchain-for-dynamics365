@@ -9,7 +9,7 @@ NFT's are tokenized versions of real-world assets. They are similar to stablecoi
 **Step 1:** Before you start installing the solution [request an API Key](https://www.blocks365.com/blockchain-for-dynamics365)
 
 **Step 2:** Download the latest version of the Blockchain for Dynamics 365 solution:
-- [Blockchain for Dynamics 365 v1.0.0.0](https://github.com/Blocks-365/blockchain-for-dynamics365/raw/master/solution/Blockchain_for_Dynamics365_1_0_0_0.zip)
+- [Blockchain for Dynamics 365 v1.0.0.0](https://github.com/Blocks-365/blockchain-for-dynamics365/releases/download/1.0.0.0/Blockchain_for_Dynamics365_1_0_0_0.zip)
 
 **Step 3:** From within Dynamics 365, navigate to Settings → Solutions → Import and select the downloaded solution file. Follow the instructions.
 
